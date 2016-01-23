@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 74f67928241ed9d4cb8a357419738dc0
+timeCreated: 1453577308
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: _Goat_0
+    21300002: _Goat_1
+    21300004: _Goat_2
+    21300006: _Goat_3
+    21300008: _Goat_4
+    21300010: _Goat_5
+    21300012: _Goat_6
+    21300014: _Goat_7
+    21300016: _Goat_8
+    21300018: _Goat_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: _Goat_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 827
+        width: 134
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 42}
+        - {x: 23, y: 42}
+        - {x: 28, y: 44}
+        - {x: 28, y: 58}
+        - {x: 15, y: 75}
+        - {x: -50, y: 75}
+        - {x: -67, y: 37}
+        - {x: -67, y: -26}
+        - {x: -20, y: -75}
+        - {x: 60, y: -75}
+        - {x: 67, y: -66}
+        - {x: 67, y: -6}
+        - {x: 17, y: 39}
+    - name: _Goat_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 824
+        width: 118
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 89.5}
+        - {x: -59, y: 66.5}
+        - {x: -59, y: 5.5}
+        - {x: -44, y: -38.5}
+        - {x: -15, y: -89.5}
+        - {x: -3, y: -66.5}
+        - {x: -4, y: -61.5}
+        - {x: 24, y: -89.5}
+        - {x: 59, y: -89.5}
+        - {x: 59, y: 89.5}
+    - name: _Goat_2
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 826
+        width: 129
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64.5, y: -26.5}
+        - {x: 1.5, y: 89.5}
+        - {x: -13.5, y: 93.5}
+        - {x: -50.5, y: 93.5}
+        - {x: -64.5, y: 89.5}
+        - {x: -64.5, y: -11.5}
+        - {x: -21.5, y: -61.5}
+        - {x: -13.5, y: -59.5}
+        - {x: -10.5, y: -56.5}
+        - {x: -10.5, y: -54.5}
+        - {x: 8.5, y: -92.5}
+        - {x: 10.5, y: -93.5}
+        - {x: 28.5, y: -93.5}
+        - {x: 64.5, y: -54.5}
+    - name: _Goat_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 826
+        width: 164
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 61.5}
+        - {x: -82, y: 45.5}
+        - {x: -82, y: 7.5}
+        - {x: -68, y: -4.5}
+        - {x: -22, y: -61.5}
+        - {x: 63, y: -61.5}
+        - {x: 82, y: -53.5}
+        - {x: 82, y: 30.5}
+        - {x: 15, y: 61.5}
+    - name: _Goat_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 825
+        width: 179
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89.5, y: 56}
+        - {x: -89.5, y: -6}
+        - {x: -45.5, y: -56}
+        - {x: 38.5, y: -56}
+        - {x: 89.5, y: -22}
+        - {x: 89.5, y: 56}
+    - name: _Goat_5
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 824
+        width: 140
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: -62}
+        - {x: 70, y: -36}
+        - {x: 70, y: -11}
+        - {x: 55, y: 5}
+        - {x: 5, y: 73}
+        - {x: -51, y: 73}
+        - {x: -55, y: 72}
+        - {x: -70, y: 61}
+        - {x: -70, y: -48}
+        - {x: -27, y: -73}
+        - {x: 20, y: -73}
+        - {x: 21, y: -62}
+        - {x: 49, y: -66}
+        - {x: 57, y: -65}
+    - name: _Goat_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 635
+        width: 152
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 79.5}
+        - {x: -70, y: 71.5}
+        - {x: -76, y: 34.5}
+        - {x: -76, y: -12.5}
+        - {x: -75, y: -16.5}
+        - {x: -42, y: -33.5}
+        - {x: -35, y: -31.5}
+        - {x: -30, y: -29.5}
+        - {x: -8, y: -79.5}
+        - {x: 69, y: -79.5}
+        - {x: 76, y: -62.5}
+        - {x: 76, y: 3.5}
+        - {x: 15, y: 79.5}
+    - name: _Goat_7
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 663
+        width: 162
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -23.5}
+        - {x: 81, y: 33.5}
+        - {x: 19, y: 64.5}
+        - {x: -73, y: 64.5}
+        - {x: -81, y: 21.5}
+        - {x: -81, y: -20.5}
+        - {x: -55, y: -43.5}
+        - {x: -43, y: -46.5}
+        - {x: 12, y: -64.5}
+        - {x: 23, y: -64.5}
+        - {x: 26, y: -56.5}
+        - {x: 40, y: -64.5}
+        - {x: 62, y: -64.5}
+        - {x: 63, y: -52.5}
+        - {x: 60, y: -51.5}
+        - {x: 68, y: -45.5}
+    - name: _Goat_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 628
+        width: 141
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.5, y: 14}
+        - {x: 2.5, y: 70}
+        - {x: -52.5, y: 70}
+        - {x: -68.5, y: 56}
+        - {x: -70.5, y: 48}
+        - {x: -70.5, y: -27}
+        - {x: -28.5, y: -57}
+        - {x: -18.5, y: -43}
+        - {x: -17.5, y: -35}
+        - {x: -17.5, y: -17}
+        - {x: -14.5, y: -11}
+        - {x: -15.5, y: -11}
+        - {x: -14.5, y: -13}
+        - {x: -3.5, y: -50}
+        - {x: 4.5, y: -70}
+        - {x: 38.5, y: -70}
+        - {x: 62.5, y: -61}
+        - {x: 70.5, y: -43}
+        - {x: 70.5, y: 0}
+    - name: _Goat_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 627
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: 68.5}
+        - {x: -59, y: 64.5}
+        - {x: -52, y: 39.5}
+        - {x: -49, y: 34.5}
+        - {x: -45, y: 30.5}
+        - {x: -69, y: -4.5}
+        - {x: -69, y: -16.5}
+        - {x: -68, y: -18.5}
+        - {x: -32, y: -44.5}
+        - {x: -5, y: -68.5}
+        - {x: 61, y: -68.5}
+        - {x: 69, y: -62.5}
+        - {x: 69, y: 37.5}
+        - {x: 51, y: 68.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
